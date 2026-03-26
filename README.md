@@ -1,6 +1,9 @@
 # `robot-loader` 用の Kinova Robot の作成
 
 以下の手順には、ubuntu 20.04 LTS および ROS Noetic、blender3.6、および Node.js が必要です。<br>
+
+https://perso.ensta.fr/~battesti/website/blog/2026/ROS_Noetic_on_Ubuntu24_with_Docker/
+
 ROS Noetic をインストールするには、以下の「ROS Noetic の環境構築まとめ」を参照してください:
 https://qiita.com/Kirby03272000/items/8d1fdb5fbd98b9b6c93c
 
